@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="218e1733-453e-4d47-95db-476d82c2ec6c" name="172.31.32.103" url="http://172.31.32.103">
+        <fileTransfer host="172.31.32.103" port="22" rootFolder="/S1/LCWM/wangke" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
