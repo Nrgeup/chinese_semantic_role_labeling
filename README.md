@@ -1,6 +1,6 @@
 # 基于 LSTM 和 CRF 的语义标注模型
 
-```这个repo是一个课程作业，并无论文发表，数据集是助教提供的CPB里的一部分。Free to download, free to use.```
+```这个repo是一个课程作业，并无论文发表，数据集是助教提供的CPB里的一部分。Free to download and free to use.```
 
 ## 任务描述
 
