@@ -10,10 +10,7 @@
 根据中文宾州命题库(CPB),给定某个特定的命题(/rel),识别出句子中的该命题的
 论元以及其左右边界。例如在下列例句中:
 
-> 我们/PN/O 希望/VV/O 台湾/NR/B-ARG0 当局/NN/E-ARG0 顺应/VV/O 历史/NN/O
-发展/NN/O 潮流/NN/O ,/PU/O 把握/VV/rel 时机/NN/S-ARG1 ,/PU/O 就/P/O
-两/CD/O 岸/NN/O 政治/NN/O 谈判/NN/O 作出/VV/O 积极/JJ/O 回应/NN/O 和/CC/O
-明智/JJ/O 选择/NN/O 。/PU/O
+	 我们/PN/O 希望/VV/O 台湾/NR/B-ARG0 当局/NN/E-ARG0 顺应/VV/O 历史/NN/O 发展/NN/O 潮流/NN/O ,/PU/O 把握/VV/rel 时机/NN/S-ARG1 ,/PU/O 就/P/O 两/CD/O 岸/NN/O 政治/NN/O 谈判/NN/O 作出/VV/O 积极/JJ/O 回应/NN/O 和/CC/O 明智/JJ/O 选择/NN/O 。/PU/O
 
 例句已经完成分词和词性标注(part of speech, POS)。对于每一个词块
 “A/B/C”,A 是词;B 是词性信息;C 是论元标记。
